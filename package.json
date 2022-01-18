@@ -1,0 +1,18 @@
+{
+  "name": "cloudinary_npm-with-TS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.9",
+    "cloudinary": "^1.28.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
